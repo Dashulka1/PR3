@@ -17,7 +17,7 @@
 
 1. **Клонировать репозиторий и перейти в корневой каталог:**
    ```bash
-   git clone https://github.com/Andrey-RBG/PR3.git
+   git clone https://github.com/Dashulka1/PR3.git
    cd PR3
    ```
 2. **Создать и перейти в директорию сборки:**
