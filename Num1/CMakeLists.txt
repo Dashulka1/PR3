@@ -1,0 +1,1 @@
+add_executable(Num1 Numero1.c)
